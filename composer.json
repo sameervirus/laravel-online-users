@@ -16,9 +16,9 @@
         }
     ],
     "require": {
-        "illuminate/support": "^7",
-        "illuminate/session": "^7",
-        "illuminate/database": "^7",
+        "illuminate/support": "^8",
+        "illuminate/session": "^8",
+        "illuminate/database": "^8",
         "php" : ">=5.5.9"
     },
     "require-dev": {
